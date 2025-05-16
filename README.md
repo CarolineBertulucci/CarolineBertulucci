@@ -22,18 +22,20 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="42%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CarolineBertulucci&show_icons=true&title_color=d3bcf6&icon_color=d1fabf&text_color=ffffff&bg_color=00000000&border_color=d3bcf6" 
   />
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineBertulucci&title_color=d3bcf6&icon_color=d1fabf&text_color=ffffff&bg_color=00000000&border_color=d3bcf6&langs_count=7" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    width="50%"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineBertulucci&title_color=d3bcf6&icon_color=d1fabf&text_color=ffffff&bg_color=00000000&border_color=d3bcf6&langs_count=7" 
   />
 </p>
-<picture align="left">
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolineBertulucci/CarolineBertulucci/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolineBertulucci/CarolineBertulucci/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolineBertulucci/CarolineBertulucci/output/github-contribution-grid-snake.svg">
