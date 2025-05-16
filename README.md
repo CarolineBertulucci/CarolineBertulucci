@@ -22,7 +22,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width="50%"
+    width="48%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CarolineBertulucci&show_icons=true&title_color=d3bcf6&icon_color=d1fabf&text_color=ffffff&bg_color=00000000&border_color=d3bcf6" 
   />
@@ -30,7 +30,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    width="50%"
+    width="48%"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineBertulucci&title_color=d3bcf6&icon_color=d1fabf&text_color=ffffff&bg_color=00000000&border_color=d3bcf6&langs_count=7" 
   />
