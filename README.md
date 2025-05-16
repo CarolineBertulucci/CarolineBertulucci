@@ -18,17 +18,13 @@
 </p>
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
+  <img
     height="200" 
     width="48%"
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=CarolineBertulucci&show_icons=true&title_color=d3bcf6&icon_color=d1fabf&text_color=ffffff&bg_color=00000000&border_color=d3bcf6" 
   />
 <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
     width="48%"
     style="padding-right: 10px;"
